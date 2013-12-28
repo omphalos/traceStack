@@ -43,7 +43,7 @@
 
       return e.stack.
         split('\n').
-        filter(function(x) { return x != 'Error' }).
+        filter(function(x) { return x && x != 'Error' }).
         map(parse)
     }
   }

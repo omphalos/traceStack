@@ -6,4 +6,4 @@ This is a simple micro library for generating a consistent cross-browser object 
 License
 =======
 
-(Unlicense)[http://unlicense.org/]
+[Unlicense](http://unlicense.org/)
